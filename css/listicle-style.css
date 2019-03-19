@@ -42,6 +42,7 @@ header h1{
 
 #profile {
 	margin-top: -50px;
+	margin-bottom: 70px;
 	text-align: center;
 	font-family: Source Sans Pro, sans-serif;
 	font-size: 18px;
@@ -69,7 +70,7 @@ article {
 }
 
 section {
-	margin: 60px auto;
+	margin: 60px auto 120px auto;
 	display: flex;
 	justify-content: center;
 }
